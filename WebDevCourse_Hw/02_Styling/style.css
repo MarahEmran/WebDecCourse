@@ -107,3 +107,12 @@ table.blueTable tfoot .links a {
 .myButton:active {
     background: #144E75;
 }
+
+
+/*task 13*/
+
+.headerStyle {
+    background-color: #003366 !important;
+    color: white !important;
+    padding: 10px;
+}
