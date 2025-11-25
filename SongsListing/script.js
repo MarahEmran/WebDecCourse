@@ -39,7 +39,7 @@ const submitBtn = document.getElementById('submitBtn');
 
 //if not exist localStorage get empty array else
 // get jwon text and convert it to object json 
-let songs = JSON.parse(localStorage.getItem('playlist')) || [];
+let songs = JSON.parse(localStorage.getItem('list')) || [];
 
 
 //User Click the  Add button
